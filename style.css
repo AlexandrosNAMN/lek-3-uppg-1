@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    background-color: darkgreen;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+}
+h2{
+    color: darkred;
+    background-color: lawngreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+    p{
+    color: aqua;
+    background-color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+}
